@@ -1,0 +1,46 @@
+body{
+  background-color: red;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+a{
+  color: #ffff;
+}
+button{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.notice{
+  background-color: #dddddd;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.intro {
+  text-align: center;
+  background-color: #89c9b8;
+  color: #black;
+  padding-bottom: 10px;
+}
+.footer{
+  background-color: #ffff;
+}
+.fab{
+      margin-left: 100px;
+      margin-top: 5px;
+      margin-right: 2px;
+}
+#distarct-color{
+  color: black;
+}
+#prices-uc{
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+#telegram{
+    margin-left: 250px;
+    margin-top: 5px;
+    margin-right: 2px;
+}
